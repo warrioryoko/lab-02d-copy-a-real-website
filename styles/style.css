@@ -1,0 +1,53 @@
+
+body {
+    font-family: 'Titillium Web', sans-serif;
+    background-color: var(--color2);
+}
+
+main {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+    border: solid black;
+}
+
+.container {
+    height: 100%;
+    width: 1300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.features {
+    height: 100%;
+    width: 634px;
+}
+
+.reviews {
+    height: 100%;
+    width: 301px;
+}
+
+.news {
+    height: 100%;
+    width: 301px;
+}
+
+.dividing-line {
+    height: 100%;
+    width: 1px;
+}
+
+header {
+    height: 24px;
+}
+
+nav {
+    height: 107px;
+}
